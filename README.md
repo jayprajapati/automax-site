@@ -1,2 +1,2 @@
 # automax-site
-Site for sarjan enterprise website.
+Basic site for sarjan enterprise website.
